@@ -1,0 +1,2 @@
+# files ending with .class
+find . -name "*.class" -type f -delete
